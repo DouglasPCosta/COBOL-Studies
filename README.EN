@@ -1,19 +1,28 @@
+<div align="center">
+
 # 🖥️ MainFrame COBOL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/COBOL-Mainframe-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM-z%2FOS-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/costa-douglas/MainFrame-COBOL?style=for-the-badge" />
-</p>
+### 🇺🇸 English | 🇧🇷 [Português](README.md)
 
-## 📖 About the Project
+A study repository focused on COBOL programming and IBM Mainframe technologies.
 
-This repository was created to document my learning journey and continuous growth in **COBOL development for IBM Mainframe environments**.
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge)
+![Mainframe](https://img.shields.io/badge/IBM-z%2FOS-red?style=for-the-badge)
+![JCL](https://img.shields.io/badge/JCL-333333?style=for-the-badge)
+![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge)
+![License](https://img.shields.io/github/license/costa-douglas/MainFrame-COBOL?style=for-the-badge)
 
-Here, you will find practical examples, exercises, programs, and studies related to the Mainframe ecosystem used by major financial institutions and mission-critical enterprises.
+</div>
 
-The main goal is to demonstrate COBOL fundamentals, structured programming best practices, and the integration with technologies widely adopted in IBM Mainframe environments.
+---
+
+# 📖 About
+
+This repository was created to document my learning journey and continuous development in **COBOL programming for IBM Mainframe environments**.
+
+The goal is to share practical exercises, code examples, and projects covering everything from COBOL fundamentals to enterprise technologies widely used in banking, insurance, and mission-critical systems.
+
+Throughout this project, new content will be added covering the IBM Mainframe ecosystem, including **JCL, DB2, VSAM, CICS, file handling, batch processing, and Balance Line techniques**.
 
 ---
 
