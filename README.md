@@ -39,24 +39,6 @@ O foco é demonstrar conceitos fundamentais da linguagem COBOL, boas práticas d
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-MainFrame-COBOL/
-│
-├── Exercícios
-├── Programas Básicos
-├── Manipulação de Arquivos
-├── Estruturas de Decisão
-├── Estruturas de Repetição
-├── Subprogramas
-├── Exemplos de JCL
-├── Integração com DB2
-└── README.md
-```
-
----
-
 # 📚 Conteúdo
 
 ## Fundamentos COBOL
