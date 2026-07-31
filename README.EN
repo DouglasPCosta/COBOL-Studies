@@ -1,0 +1,136 @@
+# 🖥️ MainFrame COBOL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COBOL-Mainframe-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-z%2FOS-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/costa-douglas/MainFrame-COBOL?style=for-the-badge" />
+</p>
+
+## 📖 About the Project
+
+This repository was created to document my learning journey and continuous growth in **COBOL development for IBM Mainframe environments**.
+
+Here, you will find practical examples, exercises, programs, and studies related to the Mainframe ecosystem used by major financial institutions and mission-critical enterprises.
+
+The main goal is to demonstrate COBOL fundamentals, structured programming best practices, and the integration with technologies widely adopted in IBM Mainframe environments.
+
+---
+
+## 🎯 Objectives
+
+- Learn COBOL through hands-on practice
+- Develop programming logic for Mainframe environments
+- Build applications following industry best practices
+- Share knowledge with the community
+- Build a professional Mainframe portfolio
+
+---
+
+## 🛠️ Technologies
+
+- COBOL
+- IBM z/OS
+- TSO/ISPF
+- JCL
+- DB2
+- VSAM
+- CICS
+
+---
+
+# 📚 Topics Covered
+
+## COBOL Fundamentals
+
+- COBOL Program Structure
+- IDENTIFICATION DIVISION
+- ENVIRONMENT DIVISION
+- DATA DIVISION
+- PROCEDURE DIVISION
+- Programming Best Practices
+
+## Variables and Data Types
+
+- PIC
+- VALUE
+- MOVE
+- REDEFINES
+- OCCURS
+- Data Level Numbers (01, 05, 10, 77, 88)
+
+## Arithmetic Operations and Business Calculations
+
+- ADD
+- SUBTRACT
+- MULTIPLY
+- DIVIDE
+- COMPUTE
+- Financial Calculations
+- Percentage Calculations
+- Running Totals
+- Totals and Subtotals
+- Rounding Operations
+
+## Decision Structures
+
+- IF / ELSE
+- EVALUATE
+
+## Loop Structures
+
+- PERFORM
+- PERFORM UNTIL
+- PERFORM VARYING
+
+## File Handling
+
+- Sequential File Reading
+- File Writing
+- Record Updates
+- Logical Record Deletion
+- Input and Output Files
+- File Organization
+- EOF (End Of-File)
+- FILE STATUS
+- Sequential Files
+- Indexed Files
+
+## Balance Line Processing
+
+- Balance Line between two files
+- Merge of sorted files
+- Record comparison
+- New record insertion
+- Existing record updates
+- Record deletion
+- Output file generation
+- Exception and inconsistency handling
+
+## Database
+
+- Embedded SQL
+- DB2
+- Cursors
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
+
+## Batch Processing
+
+- JCL
+- Job Execution
+- SORT
+- IEBGENER
+- IDCAMS
+- Return Code (RC) Handling
+
+## Mainframe Technologies
+
+- IBM z/OS
+- TSO/ISPF
+- SDSF
+- JES2
+- VSAM
+- CICS
