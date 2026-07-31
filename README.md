@@ -57,51 +57,98 @@ MainFrame-COBOL/
 
 ---
 
-## 📚 Conteúdo Estudado
+# 📚 Conteúdo
 
-### Fundamentos
+## Fundamentos COBOL
 
-- Variáveis
-- Tipos de Dados
-- Identificação do Programa
-- Divisions do COBOL
-- Sections
-- Paragraphs
+- Estrutura de Programas COBOL
+- IDENTIFICATION DIVISION
+- ENVIRONMENT DIVISION
+- DATA DIVISION
+- PROCEDURE DIVISION
+- Boas práticas de programação
 
-### Entrada e Saída
+## Variáveis e Tipos de Dados
 
-- ACCEPT
-- DISPLAY
-
-### Controle de Fluxo
-
-- IF / ELSE
-- EVALUATE
-- PERFORM
-- GO TO (para fins de estudo)
-
-### Manipulação de Dados
-
+- PIC
+- VALUE
 - MOVE
-- COMPUTE
+- REDEFINES
+- OCCURS
+- Níveis de declaração (01, 05, 10, 77, 88)
+
+## Operações e Cálculos
+
 - ADD
 - SUBTRACT
 - MULTIPLY
 - DIVIDE
+- COMPUTE
+- Cálculos financeiros
+- Percentuais
+- Acumuladores
+- Totais e Subtotais
+- Arredondamentos
 
-### Arquivos
+## Estruturas de Decisão
 
+- IF / ELSE
+- EVALUATE
+
+## Estruturas de Repetição
+
+- PERFORM
+- PERFORM UNTIL
+- PERFORM VARYING
+
+## Manipulação de Arquivos
+
+- Leitura de arquivos sequenciais
+- Escrita de arquivos
+- Atualização de registros
+- Exclusão lógica
+- Arquivos de Entrada e Saída
+- Organização de arquivos
+- EOF (End Of File)
+- FILE STATUS
 - Sequential Files
 - Indexed Files
-- VSAM *(futuramente)*
 
-### Banco de Dados
+## Balance Line (Balanceamento)
 
-- Introdução ao DB2
+- Balance Line entre dois arquivos
+- Merge de arquivos ordenados
+- Comparação de registros
+- Inclusão de novos registros
+- Alteração de registros existentes
+- Exclusão de registros
+- Geração de arquivo de saída
+- Controle de inconsistências
+
+## Banco de Dados
+
 - Embedded SQL
+- DB2
+- Cursores
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
 
-### Batch
+## Processamento Batch
 
 - JCL
 - Execução de Jobs
-- Geração de Relatórios
+- SORT
+- IEBGENER
+- IDCAMS
+- Controle de retorno (RC)
+
+## Tecnologias Mainframe
+
+- IBM z/OS
+- TSO/ISPF
+- SDSF
+- JES2
+- VSAM
+- CICS
